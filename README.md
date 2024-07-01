@@ -1,4 +1,6 @@
-                                         **Indian General Elections 2024 - Data Extraction and Analysis**
+Indian General Elections 2024 - Data Extraction and Analysis
+
+
 **Overview**
 This project focuses on extracting, cleaning, and analyzing data from the Election Commission of India’s website for the 2024 General Elections. I collected data related to the performance of various political parties, their winning candidates, and overall election results. This repository includes scripts for scraping the election results, processing and merging the data, and performing various analyses to derive insights.
 
